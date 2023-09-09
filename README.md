@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Irovard
 - I’m interested in Python Coding and Hacking.
--  How to reach me Irovard#4883
+-  How to reach me Dc: Irovard
 
 <!---
 Irovard/Irovard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
